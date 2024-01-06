@@ -3,12 +3,7 @@
 ## part1：使用函数选择器方式进行调用
 ## part2：使用abi方式进行调用
 ## part3：使用abigen生成合约go文件进行调用
-
-
-
-### 更多关于区块链、web3的技术、资讯请关注公众号：外柏叁布道者（web3_preacher)
-
-<br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rao261488647/go-contract-demo/main/web3_preacher.jpg" alt="美丽的风景">
-</p>
+## part4: 演示调用合约storage.sol
+### 1. 调用合约接口，写入数据
+### 2. 通过ethClient的CallContract读取合约内容
+### 3. 通过boundContract的call方法读取合约内容
